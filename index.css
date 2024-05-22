@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+
+}
+nav li{
+    padding: 5px;
+    cursor: pointer;
+    color: red;
+}
+
+.heights{
+    padding-top: 20px;
+    
+}
+
+.depth{
+    display: flex;
+}
+
+h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.companies{
+    display: flex;
+}
